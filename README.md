@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshana Kavishan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Mobile/Web developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oshanakavishan&label=Profile%20views&color=0e75b6&style=flat" alt="oshanakavishan" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OOP with java**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Mobile Development**
 
 
 <h3 align="left">Connect with me:</h3>
