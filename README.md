@@ -1,136 +1,161 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,100:002EFF&height=200&section=header&text=🚀%20Oshana%20Kavishan&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Turning%20Ideas%20Into%20Interactive%20Experiences%20✨&descAlign=50&descAlignY=65" 
-    alt="Header Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:FF0040&height=200&section=header&text=⚔️%20Oshana%20Kavishan&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Code%20Warrior%20%7C%20Digital%20Architect%20%7C%20Bug%20Slayer%20🎮&descAlign=50&descAlignY=65" 
+    alt="Gaming Header Banner"
 />
 </div>
 
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h3 align="center">Driven by Curiosity, Powered by Innovation.</h3>
+<h3 align="center">🎮 Level ∞ Developer | Boss Fight Specialist</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF00CC&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%7C+Mobile+Developer;Building+Digital+Solutions;Creating+Tomorrow's+Technology" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=🎯+MISSION:+BUILD+EPIC+DIGITAL+WORLDS;⚡+SPECIAL+ABILITY:+FULL+STACK+MASTERY;🚀+QUEST:+MOBILE+APP+DOMINATION;💀+BOSS+STATUS:+BUG+TERMINATOR" alt="Gaming Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OshanaKavishan&label=Profile%20views&style=for-the-badge&color=002eff&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/OshanaKavishan?label=Followers&style=for-the-badge&color=002eff&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff00cc?style=for-the-badge&labelColor=000000" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=OshanaKavishan&label=Players%20Visited&style=for-the-badge&color=00ff41&labelColor=000000" alt="Player Count" />
+  <img src="https://img.shields.io/github/followers/OshanaKavishan?label=Party%20Members&style=for-the-badge&color=ff0040&labelColor=000000" alt="Party Members" />
+  <img src="https://img.shields.io/badge/Class-Code%20Mage-00ff41?style=for-the-badge&labelColor=000000" alt="Character Class" />
 </div>
 <br/>
 
 ```javascript
-const oshana = {
-  name: "Oshana Kavishan",
-  location: "Nugegoda, Western Province, Sri Lanka",
-  email: "oshanakavishansilva@gmail.com",
-  code: ["JavaScript", "Python", "Java", "PHP", "C", "C++"],
-  askMeAbout: ["Web Development", "Mobile App Development", "Tech"],
-  technologies: {
-    library: ["React.js", "Bootstrap"],
-    frameworks: ["Next.js", "Angular", "Django", "Node.js"],
-    backEnd: ["PHP", "Express.js", "Node.js"],
-    databases: ["MySQL", "MongoDB", "Firebase", "Supabase"]
-  },
-  interests: ["Web Development", "Mobile Development", "Learning new technologies"],
-  funFact: "Always eager to learn and build new things!"
-};
+class CodeWarrior {
+  constructor() {
+    this.playerName = "Oshana Kavishan";
+    this.currentLocation = "Nugegoda Command Center, Western Province, Sri Lanka";
+    this.contactFrequency = "oshanakavishansilva@gmail.com";
+    this.weaponArsenal = ["JavaScript", "Python", "Java", "PHP", "C", "C++"];
+    this.specialSkills = ["Web Sorcery", "Mobile App Crafting", "Tech Wizardry"];
+    this.inventoryItems = {
+      spells: ["React.js", "Bootstrap"],
+      frameworks: ["Next.js", "Angular", "Django", "Node.js"],
+      backendMagic: ["PHP", "Express.js", "Node.js"],
+      dataVaults: ["MySQL", "MongoDB", "Firebase", "Supabase"]
+    };
+    this.currentQuests = ["Web Domination", "Mobile Conquest", "Learning New Abilities"];
+    this.secretPower = "Infinite curiosity and unstoppable creativity!";
+  }
 
-console.log(`
-   ============================================
-   🚀 Welcome to my digital universe  
-   🌌 Architect of interfaces, conjurer of code.  
-   🛠️ I forge applications in the crucible of caffeine and curiosity.  
-   💻 My syntax is clean, my pixels precise, my logic bulletproof.  
-   🧩 I solve problems like puzzles — piece by elegant piece.  
-   🌙 I debug in the silence of midnight, and deploy with the dawn.  
-   ✨ I build ideas, break limits, and refactor realities.  
-   🧠 Fueled by passion, driven by innovation.  
-   🧙 This is more than code — it's my craft.  
-   ============================================
-`);
+  displayStats() {
+    console.log(`
+    ████████████████████████████████████████████████████████████
+    ██                                                        ██
+    ██  🎮 PLAYER PROFILE LOADED                              ██
+    ██  ═══════════════════════════════════════════════════   ██
+    ██  👑 RANK: Legendary Code Architect                     ██
+    ██  ⚔️  WEAPON: Caffeine-Powered Keyboard                 ██
+    ██  🛡️  ARMOR: Debugger's Shield +99                      ██
+    ██  💎 RARE SKILL: Midnight Coding Marathon               ██
+    ██  🏆 ACHIEVEMENT: Zero-Bug Deployment Master            ██
+    ██  🔮 MAGIC: Turning Ideas Into Interactive Realities    ██
+    ██  ⚡ SPECIAL MOVE: Refactor Combo x1000                 ██
+    ██  🧠 ULTIMATE: Problem-Solving Overdrive                ██
+    ██  🎯 MISSION: Building Tomorrow's Digital Empire        ██
+    ██                                                        ██
+    ████████████████████████████████████████████████████████████
+    `);
+  }
+}
+
+const player = new CodeWarrior();
+player.displayStats();
 ```
 
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h3 align="center">GitHub Analytics :</h3>
+<h3 align="center">📊 Battle Statistics & Achievement Board</h3>
 <div align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OshanaKavishan&theme=tokyonight&show_icons=true&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OshanaKavishan&theme=chartreuse-dark&show_icons=true&count_private=true&title_color=00ff41&icon_color=ff0040&text_color=ffffff&bg_color=0d1117"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=OshanaKavishan&count_private=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=OshanaKavishan&count_private=true&theme=chartreuse-dark&ring=00ff41&fire=ff0040"/>
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OshanaKavishan&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OshanaKavishan&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=00ff41&text_color=ffffff"/>
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h3 align="center">Let's Connect :</h3>
+<h3 align="center">🤝 Join My Guild</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/oshana-kavishan-9ab10b23b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/oshana-kavishan-9ab10b23b" target="blank">
+  <img align="center" src="https://img.shields.io/badge/🎮_LinkedIn_Guild-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn Guild" height="50" />
+</a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h3 align="center">🚀 Tech Arsenal</h3>
+<h3 align="center">⚔️ Weapon Arsenal & Combat Gear</h3>
 
-<!-- Frontend -->
-<h4 align="center">🎨 Frontend</h4>
+<!-- Frontend Weapons -->
+<h4 align="center">🗡️ Frontend Weapon Mastery</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,angular" title="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap, Angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,angular&theme=dark" title="HTML Sword, CSS Shield, JavaScript Bow, TypeScript Lance, React Spell, Next.js Magic, Tailwind Potion, Bootstrap Armor, Angular Axe" />
 </p>
 
-<!-- Backend -->
-<h4 align="center">🛠️ Backend</h4>
+<!-- Backend Spells -->
+<h4 align="center">🔮 Backend Sorcery & Dark Arts</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,mysql,php,django,nestjs,python" title="Node.js, Express, MongoDB, Supabase, MySQL, PHP, Django, NestJS, Python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,mysql,php,django,nestjs,python&theme=dark" title="Node.js Spell, Express Enchantment, MongoDB Vault, Supabase Crystal, MySQL Rune, PHP Potion, Django Curse, NestJS Hex, Python Serpent" />
 </p>
 
-<!-- Mobile -->
-<h4 align="center">📱 Mobile Development</h4>
+<!-- Mobile Gadgets -->
+<h4 align="center">📱 Mobile Combat Devices</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,expo" title="React Native, Flutter, Dart, Expo" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,expo&theme=dark" title="React Mobile Blaster, Flutter Wings, Dart Projectile, Expo Power Core" />
 </p>
 
-<!-- Design -->
-<h4 align="center">🎨 Design Tools</h4>
+<!-- Design Power-ups -->
+<h4 align="center">🎨 Creative Power-Ups & Visual Mods</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" title="Figma, Photoshop, Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" title="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" title="Illustrator"/>
-  <img src="https://skillicons.dev/icons?i=xd" title="Adobe XD" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" title="Figma Designer Tool, Photoshop Brush, Illustrator Pen, XD Prototype" />
 </p>
 
-<!-- Video Editing -->
-<h4 align="center">🎬 Video Editing</h4>
+<!-- Video Boss Weapons -->
+<h4 align="center">🎬 Video Boss Battle Weapons</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pr,ae" title="Premiere Pro, After Effects"/>
-  <img src="https://img.icons8.com/color/48/000000/filmora.png" width="40" height="40" title="Filmora"/>
+  <img src="https://skillicons.dev/icons?i=pr,ae&theme=dark" title="Premiere Pro Sword, After Effects Magic"/>
+  <img src="https://img.icons8.com/nolan/64/filmora.png" width="48" height="48" title="Filmora Blade"/>
 </p>
 
-<!-- Dev Tools -->
-<h4 align="center">⚙️ Dev Tools & Platforms</h4>
+<!-- Dev Battle Station -->
+<h4 align="center">⚙️ Command Center & Battle Station</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vercel,git,github,figma" title="VS Code, Vercel, Git, GitHub, Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,vercel,git,github,figma&theme=dark" title="VS Code HQ, Vercel Deploy Station, Git Version Control, GitHub Base, Figma Design Lab" />
 </p>
-
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF00CC,100:002EFF" />
+  <h3>🏆 Current Game Stats</h3>
+  <p>
+    <img src="https://img.shields.io/badge/⚡_Energy_Level-9999-00ff41?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/🎯_Accuracy-99%25-ff0040?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/🛡️_Bug_Defense-MAX-00ff41?style=for-the-badge&labelColor=000000"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/🔥_Coding_Streak-∞_Days-ff0040?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/💎_Rare_Skills-Unlocked-00ff41?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/🎮_Game_Mode-LEGENDARY-ff0040?style=for-the-badge&labelColor=000000"/>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <h3>💀 "In Code We Trust, Bugs We Crush!" 💀</h3>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00FF41,100:FF0040" />
 </div>
