@@ -64,9 +64,7 @@ const player = new CodeWarrior();
 player.displayStats();
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+
 
 <h3 align="center">📊 Battle Statistics & Achievement Board</h3>
 <div align="center">
@@ -83,9 +81,7 @@ player.displayStats();
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+
 
 <h3 align="center">🤝 Join My Guild</h3>
 <div align="center">
@@ -94,9 +90,7 @@ player.displayStats();
 </a>
 </div>
 <br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+
 
 <h3 align="center">⚔️ Weapon Arsenal & Combat Gear</h3>
 
