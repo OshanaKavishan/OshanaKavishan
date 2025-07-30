@@ -64,6 +64,8 @@ const player = new CodeWarrior();
 player.displayStats();
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <h3 align="center">📊 Battle Statistics & Achievement Board</h3>
@@ -81,6 +83,7 @@ player.displayStats();
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h3 align="center">🤝 Join My Guild</h3>
@@ -91,6 +94,7 @@ player.displayStats();
 </div>
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">⚔️ Weapon Arsenal & Combat Gear</h3>
 
@@ -130,6 +134,8 @@ player.displayStats();
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,vercel,git,github,figma&theme=dark" title="VS Code HQ, Vercel Deploy Station, Git Version Control, GitHub Base, Figma Design Lab" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h3>🏆 Current Game Stats</h3>
